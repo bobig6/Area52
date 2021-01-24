@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 33abde3762c5bde46835aa27582c2103
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Veleka
+  fontNames:
+  - Veleka
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e14e23207c789ba40b6a8b78658c3665, type: 3}
+  - {fileID: 12800000, guid: 300666e3e00fbd246802402507fdf329, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

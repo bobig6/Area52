@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0d24e3dc524f2e14c94ef5676c646b02
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iwona Light
+  fontNames:
+  - Iwona Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ecf07bc1949ae614b95d607876e5f877, type: 3}
+  - {fileID: 12800000, guid: ebc753bd44c85bb4fbc043db0c4e704c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

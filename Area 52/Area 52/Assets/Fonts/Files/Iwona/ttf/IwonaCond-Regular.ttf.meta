@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 83fb96b062e47b14f98757d8257ad360
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iwona Cond
+  fontNames:
+  - Iwona Cond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 42ef6819abb77684b8ffecfa9807d141, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

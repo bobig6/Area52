@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cc5644c6c4d36374b88f89b56aea88de
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iwona Cond Heavy
+  fontNames:
+  - Iwona Cond Heavy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 748997167d7a15d4891a5973db809b00, type: 3}
+  - {fileID: 12800000, guid: 2054d1bde7e6ecc4e9f25862d2200966, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

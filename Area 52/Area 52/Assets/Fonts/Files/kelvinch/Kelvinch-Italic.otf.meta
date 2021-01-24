@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f97ecb02a1aef714089caa4b789b103d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kelvinch
+  fontNames:
+  - Kelvinch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45687fe1f03ec2247a6dbf6b8f81e39c, type: 3}
+  - {fileID: 12800000, guid: f6c34d534b889274d9370a2a9d87f3e5, type: 3}
+  - {fileID: 12800000, guid: 40f413a62e995d94fb4793aee52591e6, type: 3}
+  - {fileID: 12800000, guid: a487c7b8cad2d6045ba1fb20484348c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

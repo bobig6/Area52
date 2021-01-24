@@ -1,0 +1,91 @@
+@font-face {
+  font-family: Spartan;
+  src: url(./Folder/Spartan.ttf);
+}
+
+@font-face {
+  font-family: QTOptimum;
+  src: url(./Folder/QTOptimum.otf);
+}
+
+@font-face {
+  font-family: Kelvinch-Roman;
+  src: url(./Folder/Kelvinch-Roman.otf);
+}
+
+@font-face {
+  font-family: Iwona-Bold;
+  src: url(./Folder/Iwona-Bold.otf);
+}
+
+@font-face {
+  font-family: HumbleCafe-P6R7;
+  src: url(./Folder/HumbleCafe-P6R7.ttf);
+}
+
+@font-face {
+  font-family: RuthCalligraph-8oqD;
+  src: url(./Folder/RuthCalligraph-8oqD.ttf);
+}
+
+@font-face {
+  font-family: Veleka-Regular;
+  src: url(./Folder/Veleka-Regular.otf);
+}
+
+
+
+
+
+
+
+
+body{
+	margin:0;
+	overflow-x: hidden;
+	
+	color: white;
+	width: 100%;
+	background-color: black;
+}
+
+#pp1{
+	font-size: 4vw;
+	font-family:Spartan;
+}
+
+#pp2{
+	font-size: 4vw;
+	font-family:Iwona-Bold;
+}
+
+#pp3{
+	font-size: 4vw;
+	font-family:Kelvinch-Roman;
+}
+
+#pp4{
+	font-size: 4vw;
+	font-family:QTOptimum;
+}
+
+#pp5{
+	font-size: 6vw;
+	font-family:HumbleCafe-P6R7;
+}
+
+#pp6{
+	font-size: 6vw;
+	font-family:RuthCalligraph-8oqD;
+}
+
+#pp7{
+	font-size: 4vw;
+	font-family:Veleka-Regular;
+}
+
+
+
+
+
+

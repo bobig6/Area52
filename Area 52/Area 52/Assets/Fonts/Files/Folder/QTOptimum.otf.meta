@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 91c5a89ded5a57c41ad0db59b613f0db
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: QTOptimum
+  fontNames:
+  - QTOptimum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 719185d3a49937b49acba65d32b6c077, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

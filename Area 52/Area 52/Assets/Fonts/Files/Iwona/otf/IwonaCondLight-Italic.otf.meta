@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d92b558294c43274890904e0db91ac99
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iwona Cond Light
+  fontNames:
+  - Iwona Cond Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 283c6a37bbe61e14e9b464349ac79c16, type: 3}
+  - {fileID: 12800000, guid: 02debd1ffa21b8d4faf71c24f669e331, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
