@@ -19,7 +19,14 @@ public class SlimyBlock : StoppableObject
             }
             else
             {
-                collision.gameObject.transform.Find("EnemyObject").GetComponent<EnemyScript>().movingSpeed /= divider;
+                if (collision.gameObject.transform.name.Contains("Dog"))
+                {
+                    collision.gameObject.transform.GetComponent<Enemy_behaviour>().moveSpeed /= divider;
+                }
+                else
+                {
+                    collision.gameObject.transform.Find("EnemyObject").GetComponent<EnemyScript>().movingSpeed /= divider;
+                }
             }
         }
     }
@@ -32,6 +39,11 @@ public class SlimyBlock : StoppableObject
             if (collision.gameObject.name.Contains("Player"))
             {
                 collision.gameObject.GetComponent<PlayerMovement>().runSpeed *= divider;
+            }
+
+            if (collision.gameObject.transform.name.Contains("Dog"))
+            {
+                collision.gameObject.transform.GetComponent<Enemy_behaviour>().moveSpeed *= divider;
             }
             else
             {

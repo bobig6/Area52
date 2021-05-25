@@ -136,14 +136,35 @@ Damage: 50 health
 Damage: 20 health
         ");
         names.Add("Uzi");
+        curriculum.Add(@"This is true Mother Russia weapon. Treat it carefully!
+Damage: 30 health
+        ");
+        names.Add("AK_47");
+        curriculum.Add(@"This is American power. If Rambo used it, you can too.
+Damage: 50 health
+        ");
+        names.Add("М_60");
         curriculum.Add(@"The backpack is a fasionable cloath that will give you some protection.
-Protection: 2 health
+Protection: 5%
         ");
         names.Add("Backpack");
         curriculum.Add(@"The gas mask will be there for you if someone farts. Also will protect you from bullets
-Protection: 1 health
+Protection: 5%
         ");
         names.Add("GasMask");
+        curriculum.Add(@"The helmet is the perfect military equipment. It also looks like 80's haircut
+Protection: 10%
+        ");
+        names.Add("Helmet");
+        curriculum.Add(@"This vest will protect you from bullets. It's in the name duhh...
+Protection: 10%
+        ");
+        names.Add("BulletproofVest");
+        curriculum.Add(@"This vest is from kevlar. It's tough!
+Protection: 20%
+        ");
+        names.Add("KevlarVest");
+
     }
 
 }

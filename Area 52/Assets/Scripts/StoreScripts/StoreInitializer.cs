@@ -92,10 +92,11 @@ public class StoreInitializer : MonoBehaviour
 
 			itemSlotRectTransform.position = ItemSlot.position;
 
+
 			//remove the money from the slot
-			if(storeItem.amount == MoneySlot.GetComponent<MoneySlot>().amount)
+			if(storeItem.buyPrice == MoneySlot.GetComponent<MoneySlot>().amount)
 			{
-				Destroy(MoneySlot.GetChild(0));
+				Destroy(MoneySlot.GetChild(0).gameObject);
 				MoneySlot.GetComponent<MoneySlot>().amount = 0;
 			}
 			else
